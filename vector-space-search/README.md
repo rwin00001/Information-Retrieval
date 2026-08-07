@@ -11,6 +11,9 @@ A lightweight Information Retrieval (IR) search engine implementing the Vector S
 ```text
 project1-vector-space-search/
 ├── data/                  # Raw and processed datasets
+│   ├── raw/               # Sample JSON documents
+│   ├── processed/         # Sample inverted index
+│   └── README.md          # Dataset documentation
 ├── src/
 │   ├── preprocessing.py   # Text tokenization & lemmatization
 │   ├── indexer.py         # Inverted index & TF-IDF builder
@@ -18,6 +21,7 @@ project1-vector-space-search/
 ├── requirements.txt
 └── README.md
 ```
+
 Quick Start
 ```Bash
 pip install -r requirements.txt
