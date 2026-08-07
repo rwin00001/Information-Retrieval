@@ -15,3 +15,4 @@ The input files in `raw/` follow a standard JSON list format:
   "title": "string - Title of the document",
   "content": "string - Full text content"
 }
+```
