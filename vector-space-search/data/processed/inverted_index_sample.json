@@ -1,0 +1,11 @@
+{
+  "vector": [1, 3],
+  "space": [1, 3],
+  "model": [1],
+  "document": [1, 2],
+  "retrieval": [1, 3],
+  "frequency": [2],
+  "similarity": [3],
+  "preprocessing": [4],
+  "lemmatization": [4]
+}
