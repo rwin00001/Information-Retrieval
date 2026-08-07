@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-3.8%2B-green.svg)](https://www.nltk.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2%2B-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A portfolio-grade collection of two Information Retrieval (IR) systems demonstrating classic vector-based document retrieval, text preprocessing pipelines, XML data parsing, and an empirical evaluation of 11 string similarity and edit-distance algorithms.
 
