@@ -1,0 +1,13 @@
+Top Word: browser
+=============================================
+  Levenshtein         : browse (Score: 0.8571)
+  Damerau-Levenshtein : browse (Score: 0.8571)
+  Hamming             : server (Score: 0.2857)
+  LCS                 : browse (Score: 0.8571)
+  LCSubstring         : browse (Score: 0.8571)
+  Dice                : browse (Score: 0.8000)
+  Bag                 : browse (Score: 0.8571)
+  Editex              : browse (Score: 0.9286)
+  Jaro                : browse (Score: 0.9048)
+  Jaro-Winkler        : browse (Score: 0.9429)
+  Q-Grams             : browse (Score: 0.7143)
