@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Vector Space Model in IR",
+    "content": "The vector space model represents text documents as vectors of identifiers such as index terms. It is used in information retrieval, filtering, indexing, and relevancy rankings."
+  },
+  {
+    "id": 2,
+    "title": "TF-IDF Weighting Scheme",
+    "content": "Term frequency-inverse document frequency is a numerical statistic intended to reflect how important a word is to a document in a collection or corpus."
+  },
+  {
+    "id": 3,
+    "title": "Cosine Similarity Search",
+    "content": "Cosine similarity measures the similarity between two non-zero vectors of an inner product space. It is frequently used in text matching and information retrieval."
+  },
+  {
+    "id": 4,
+    "title": "Natural Language Processing Pipeline",
+    "content": "Text preprocessing involves lowercasing, tokenization, stopword removal, and lemmatization to clean raw text before building inverted indices."
+  }
+]
