@@ -9,21 +9,6 @@ A portfolio-grade collection of two Information Retrieval (IR) systems demonstra
 
 ---
 
-## 📑 Table of Contents
-- [Overview](#-overview)
-- [Repository Architecture](#-repository-architecture)
-- [Project 1: Vector Space Search Engine](#1-vector-space-search-engine)
-  - [Mathematical Formulation](#mathematical-formulation)
-  - [Pipeline Architecture](#pipeline-architecture)
-- [Project 2: Token Similarity & Metrics Engine](#2-token-similarity--metrics-engine)
-  - [Evaluated Algorithms](#evaluated-algorithms)
-  - [Data Extraction & Parsing](#data-extraction--parsing)
-- [Installation & Setup](#-installation--setup)
-- [Sample Results & Benchmarks](#-sample-results--benchmarks)
-- [License](#-license)
-
----
-
 ## 🔬 Overview
 
 This repository bridges two core subfields of Information Retrieval:
